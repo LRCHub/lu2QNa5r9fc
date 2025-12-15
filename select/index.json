@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "夏をあきらめて",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-15T14:14:39.109024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏をあきらめて",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/01_夏をあきらめて_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏をあきらめて",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/02_夏をあきらめて_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏をあきらめて - Natsu wo Akiramete",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/03_夏をあきらめて_-_Natsu_wo_Akiramete_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏をあきらめて",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/04_夏をあきらめて_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏をあきらめて",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/05_夏をあきらめて_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夏をあきらめて [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_夏をあきらめて_[2024_Remaster]_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夏をあきらめて (Remastered 2024)",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/07_夏をあきらめて_(Remastered_2024)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏をあきらめて",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_夏をあきらめて_サザンオールスターズ.txt"
+    }
+  ]
+}
